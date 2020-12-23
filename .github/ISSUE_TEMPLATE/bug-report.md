@@ -1,5 +1,5 @@
 ---
-name: Bug Report
+name: Radio Keybind
 about: Create a bug report to have an issue in game fixed.
 title: ''
 labels: Bug
@@ -8,13 +8,10 @@ assignees: ''
 ---
 
 **What is the bug, be thorough.**
-[answer here *remove this line to answer*]
+If you have the radio keybind bound there is a glitch where if u call into the radio and have a weapon out your hands will get stuck holding the radio and holding the weapon.
 
 **How can we reproduce this bug?**
-[answer here *remove this line to answer*]
+Bind the the radio keybind in the menu. Have a weapon out and press that keybind
 
-**Images**
-[answer here if you have images *remove this line to answer*]
 
-**Other info**
-[any other info? *remove this line to answer*]
+
